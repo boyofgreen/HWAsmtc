@@ -1,5 +1,6 @@
 {
     "start_url":"http://boyofgreen.github.io/HWAsmtc/",
-    "mjs_api_access":[ { "match": "*" }]
+    "mjs_api_access":[ { "match": "*" }],
+    "short_name":"Sample_Media_App"
     
 }
